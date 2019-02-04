@@ -1,5 +1,5 @@
 # hello-world
 
-Iam Raghavendra(Btech CS) graduate
+This repository contains programs in c
 
 
